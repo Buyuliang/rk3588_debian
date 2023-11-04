@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="tom" fetch="https://github.com/Buyuliang" review=""/>
+    <default revision="master" remote="tom" sync-j="4"/>
+    <project name="tom" path="test/tom"/>
+</manifest>
